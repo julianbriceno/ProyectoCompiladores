@@ -1,0 +1,8 @@
+#include "algo.h" 
+
+int main(int argc, char **argv){
+	int a = 10;
+	if ( a == 10 ){
+		a == 5;	
+	}
+}
